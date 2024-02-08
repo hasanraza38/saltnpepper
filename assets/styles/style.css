@@ -66,20 +66,13 @@
 
 
 
-
 .branches{
     padding-top: 20px;
      background-color: #0f0f0f;
-    /* background-image: url(/assets/images/bckimg.webp)  ; */
-    margin-top: 50px;
-    
-   
-   
+    margin-top: 50px; 
+     
 }
-/* #bckimg{
-    display: flex;
-    justify-content: right;
-} */
+
 
 
   
@@ -87,6 +80,7 @@
 .mt{
     margin-top: 100px;
 }
+
 .branches-item{
     /* display: flex;
     justify-content: space-evenly; */
@@ -260,4 +254,15 @@ margin: 0px 20px;
 .sec2-container{
     margin: 20px;
 
+}
+
+.about-card {
+
+    padding: 12px;
+     width: 350px;
+     border-radius: 10px;
+
+}
+.about-card-image{
+    width: 100%;
 }

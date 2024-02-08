@@ -1,11 +1,4 @@
-
-        
-       
-
-
-        
-       
-  0
+ 
 
 
 
@@ -13,12 +6,88 @@
 
 
 
+<!-- third -->
+<div  class="  mt-4 d-flex justify-center justify-evenly" >
+
+   <div>
+       <h1><span>Salt'n Pepper</span> Restaurant</h1>
+       <p class="text-grey">
+          </p>
+   </div>
+
+   <div>
+      <img src="./assets/images/islamabad-branch.webp" alt="">
+
+   </div>
+
+</div>
+<!-- third -->
+
+
+<!-- fourth -->
+
+<div  class="  mt-4 d-flex justify-center justify-evenly" >
+
+   <div>
+       <img src="./assets/images/about-sec-img4.webp" alt="">
+
+    </div>
+
+   <div>
+       <h1><span>Salt'n Pepper</span> Restaurants (1992)</h1>
+       <p class="text-grey">
+          
+           The Salt’n Pepper Village Restaurant in Lahore is considered to be the restaurant that revolutionized dining experiences in Pakistan. The Village offers classic and modern sub-continental dishes. The village restaurant created a new concept of “Live Buffet” where everything is cooked in front of you in a ‘bazaar’ like atmosphere. The Village is an acclaimed restaurant brand, credited with the promotion of the Pakistani cuisine and the revival of some old recipes. The Village Lahore has an seating capacity of over 300 guests. This restaurant has hosted countless lunches and dinners for local and foreign dignitaries and celebrities like the late Princess Diana, late prime minister of Pakistan Benazir Bhutto, ex-president of Pakistan Gen. (R) Pervez Musharraf and many more.</p>
+   </div>
+
+</div>
+
+<!-- fourth -->
+
+
+
+<!-- fifth -->
+
+<div  class="  mt-4 d-flex justify-center justify-evenly" >
+
+<div>
+    <h1><span>Salt'n Pepper</span> Restaurant</h1>
+    <p class="text-grey">
+       The Salt’n Pepper Restaurants at Mall and Liberty Market Lahore, are considered to be the first<br>proper family style restaurants in the food industry of Pakistan. These restaurants pride <br>themselves for being symbolized as an eatery with a customer loyalty spanning over three generations. <br>As a restaurant model, these have inspired the set-up of numerous other restaurants across Pakistan.</p>
+</div>
+
+<div>
+   <img src="./assets/images/about-sec-img5.webp" alt="">
+
+</div>
+
+</div>
+
+<!-- fifth -->
 
 
 
 
 
-</main>
+<!-- sixth -->
+<div  class="  mt-4 d-flex justify-center justify-evenly" >
 
+   <div>
+       <img src="./assets/images/about-sec-img6.webp" alt="">
 
+    </div>
 
+   <div>
+       <h1><span>Salt'n Pepper</span> Restaurants (1992)</h1>
+       <p class="text-grey">
+          
+           The Salt’n Pepper Village Restaurant in Lahore is considered to be the restaurant that revolutionized dining experiences in Pakistan. The Village offers classic and modern sub-continental dishes. The village restaurant created a new concept of “Live Buffet” where everything is cooked in front of you in a ‘bazaar’ like atmosphere. The Village is an acclaimed restaurant brand, credited with the promotion of the Pakistani cuisine and the revival of some old recipes. The Village Lahore has an seating capacity of over 300 guests. This restaurant has hosted countless lunches and dinners for local and foreign dignitaries and celebrities like the late Princess Diana, late prime minister of Pakistan Benazir Bhutto, ex-president of Pakistan Gen. (R) Pervez Musharraf and many more.</p>
+   </div>
+
+</div>
+<!-- sixth -->
+
+</div>                                                 
+</section>
+
+<!-- Restaurant section ended -->
